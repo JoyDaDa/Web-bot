@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+LOGIN_API : http://220.178.71.156:9100/jwglxt/xtgl/login_slogin.html
+SOURCE_API : http://220.178.71.156:9100/jwglxt/xtgl/login_slogin.html
